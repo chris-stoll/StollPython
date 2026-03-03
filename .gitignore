@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.vs/VSWorkspaceState.json
+.vs/StollPython.slnx/v18/.wsuo
+.vs/StollPython.slnx/v18/DocumentLayout.json
